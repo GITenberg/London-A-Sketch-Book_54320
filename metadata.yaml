@@ -1,0 +1,23 @@
+_repo: London-A-Sketch-Book_54320
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hornby, Lester G. (Lester George)
+    alias: Hornby, Lester George
+    birthdate: 1882
+    deathdate: 1956
+    gutenberg_agent_id: '36547'
+    url: http://www.gutenberg.org/2009/agents/36547
+description: ''
+gutenberg_issued: '2017-03-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54320'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: London; A Sketch-Book
+url: http://www.gutenberg.org/ebooks/54320
